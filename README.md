@@ -1,16 +1,9 @@
 <h2>Hey, I'm Pedro.👋</h2>
-
-
-
 <img align='right' src='https://user-images.githubusercontent.com/121258650/236836147-86e50b04-cec8-4a05-aec6-f0694bc9acfb.png' width='200'>
-
-
 <p>I'm currently a full stack developer at <strong>ByteForge</a></strong> based in 🌅 Recife. I am working on some side projects, learning a couple languages, and trying to conquer the world.</p>
-
 <p><a href="https://www.linkedin.com/in/pedroborges-dev/"><img src="https://img.shields.io/badge/-@pedroborges-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/pedroborges-dev/" alt="LinkedIn Badge"></a>
 <a href="https://www.instagram.com/pedroxborges/"><img src="https://img.shields.io/badge/-@PedroxBorges-1ED760?style=flat-square&amp;labelColor=1ED760&amp;logo=Instagram&amp;link=https://www.instagram.com/pedroxborges/" alt="Spotify Badge"></a>
 </p>
-
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://www.linkedin.com/company/bytef0rge/">ByteForge</a>.</li>
@@ -18,7 +11,6 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/pedrokromero">Github</a>.</li>
 <li>💬 Ping me about <strong>everything you want</strong>.</li>
 </ul>
-
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
