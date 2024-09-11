@@ -8,7 +8,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://www.linkedin.com/company/bytef0rge/">ZeroUm</a>.</li>
-<li>🧐 Learning about <strong>C#</strong>, <strong>React</strong>, and a bit of <strong>Java</strong>.</li>
+<li>🧐 Learning about <strong>C#</strong>, <strong>MySQL</strong>, and a bit of <strong>Java</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/pedrokromero">Github</a>.</li>
 <li>💬 Ping me about <strong>everything you want</strong>.</li>
 </ul>
